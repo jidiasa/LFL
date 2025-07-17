@@ -1,0 +1,6 @@
+# ninja log v5
+1	2697	1739508102786494397	/home/ubuntu/Desktop/WonderJourney/models/LucidDreamer/submodules/depth-diff-gaussian-rasterization-min/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/forward.o	f5d332bf65e80a3a
+0	2776	1739508102865494976	/home/ubuntu/Desktop/WonderJourney/models/LucidDreamer/submodules/depth-diff-gaussian-rasterization-min/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/backward.o	f00f6f71418b3997
+1	9249	1739508109327542376	/home/ubuntu/Desktop/WonderJourney/models/LucidDreamer/submodules/depth-diff-gaussian-rasterization-min/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/rasterizer_impl.o	db2596e9d16dfe4c
+2	14624	1739508114695581766	/home/ubuntu/Desktop/WonderJourney/models/LucidDreamer/submodules/depth-diff-gaussian-rasterization-min/build/temp.linux-x86_64-cpython-310/ext.o	a123667c7414a6e3
+2	48354	1739508148404829421	/home/ubuntu/Desktop/WonderJourney/models/LucidDreamer/submodules/depth-diff-gaussian-rasterization-min/build/temp.linux-x86_64-cpython-310/rasterize_points.o	b1a7f8b55e6c9e39

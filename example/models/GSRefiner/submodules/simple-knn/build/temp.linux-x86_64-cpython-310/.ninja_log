@@ -1,0 +1,4 @@
+# ninja log v5
+1	9167	1739508391070625102	/home/ubuntu/Desktop/WonderJourney/models/LucidDreamer/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	1b5c769b6af83088
+0	14244	1739508396156662939	/home/ubuntu/Desktop/WonderJourney/models/LucidDreamer/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	2a62cf72fcc11067
+2	48463	1739508430334917380	/home/ubuntu/Desktop/WonderJourney/models/LucidDreamer/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	254e686dabcdc7d3
